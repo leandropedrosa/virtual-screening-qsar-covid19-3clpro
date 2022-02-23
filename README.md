@@ -6,12 +6,12 @@ Os modelos nesse fluxo de trabalho foram criados utilizando os decritores:
 - [De novo design and bioactivity prediction of SARS‑CoV‑2 main protease inhibitors using recurrent neural network‑based transfer learning](https://www.arca.fiocruz.br/bitstream/icict/46077/2/Santana_Marcos_etal_IOC_2021_COVID-19.pdf)
 - [Virtual Screening on Indonesian Herbal Compounds as COVID-19 Supportive Therapy: Machine Learning and Pharmacophore Modelling Approaches](https://assets.researchsquare.com/files/rs-29119/v2_stamped.pdf?c=1603225813)
 - [Computational Models Identify Several FDA Approved or Experimental Drugs as Putative Agents Against SARS-CoV-2](https://chemrxiv.org/engage/chemrxiv/article-details/60c74a200f50dba0b23969fa)
-- [QSAR tutorial. Dr. Pavel Polishchuk] (http://www.qsar4u.com/files/qsar_rdkit_tutorial/qsar-rdkit.html)
+- [QSAR tutorial. Dr. Pavel Polishchuk](http://www.qsar4u.com/files/qsar_rdkit_tutorial/qsar-rdkit.html)
 
 ## Base de dados de treinamento e testes (potenciais inibidores de SARS-CoV-2 3CLpro.)
 
-- [950 compostos com atividade ativa] (https://plpro-inhibitors.cent.uw.edu.pl/)
-- [1662 compostos parte dos dados com atividade Inativo] (https://github.com/marcossantanaioc/De_novo_design_SARSCOV2/blob/master/data/ChEMBL_v1.zip)
+- [950 compostos com atividade ativa](https://plpro-inhibitors.cent.uw.edu.pl/)
+- [1662 compostos parte dos dados com atividade Inativo](https://github.com/marcossantanaioc/De_novo_design_SARSCOV2/blob/master/data/ChEMBL_v1.zip)
 
 ## Descritores
 - [PaDEL-Descriptor](https://github.com/ecrl/padelpy)
